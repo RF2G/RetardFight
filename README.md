@@ -1,6 +1,6 @@
 # 🤡 WOJAK'S REDEMPTION 🤡
 
-![Wojak facing his painful memories](./images/wojak_screen.jpg)
+![Wojak facing his painful memories](./newBg/wp8711070.jpg)
 )
 
 > *"Everything is shattering and it's my mistake"* - 1% battery life remaining
